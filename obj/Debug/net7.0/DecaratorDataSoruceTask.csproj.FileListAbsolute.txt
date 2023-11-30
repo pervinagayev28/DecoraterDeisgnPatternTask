@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\bin\Debug\net7.0\DecaratorDataSoruceTask.exe
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\bin\Debug\net7.0\DecaratorDataSoruceTask.deps.json
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\bin\Debug\net7.0\DecaratorDataSoruceTask.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\bin\Debug\net7.0\DecaratorDataSoruceTask.dll
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\bin\Debug\net7.0\DecaratorDataSoruceTask.pdb
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.dll
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\refint\DecaratorDataSoruceTask.dll
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.pdb
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\DecaratorDataSoruceTask.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\DecaratorDataSoruceTask\DecaratorDataSoruceTask\obj\Debug\net7.0\ref\DecaratorDataSoruceTask.dll
